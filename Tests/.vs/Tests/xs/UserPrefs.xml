@@ -1,0 +1,50 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tests/Tests/Reference/CntList.cs">
+    <Files>
+      <File FileName="Tests/Tests/Reference/CntList.cs" Line="49" Column="51" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tests" expanded="True">
+            <Node name="Tests" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="Responces" expanded="True" />
+              </Node>
+              <Node name="Tests" expanded="True">
+                <Node name="Reference" expanded="True">
+                  <Node name="CntList.cs" selected="True" />
+                </Node>
+                <Node name="Registration" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Tests" expanded="True">
+            <Node name="Tests" expanded="True">
+              <Node name="Tests" expanded="True">
+                <Node name="Reference" expanded="True">
+                  <Node name="CntList" expanded="True">
+                    <Node name="CntListTest" expanded="True">
+                      <Node name="CntListTest(OK,&quot;/v2/ref/cnt_list&quot;,&quot;application/json&quot;,13521)" selected="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
